@@ -294,6 +294,7 @@ body.dark-theme {
   display: flex;
   justify-content: space-between;
   column-gap: .5rem;
+  margin-bottom: 5rem;
 }
 
 .filters__button {
@@ -372,7 +373,8 @@ body.dark-theme {
 .skills__title {
   font-size: var(--h3-font-size);
   text-align: center;
-  margin-bottom: 1.5rem;
+  margin-bottom: 2.5rem;
+  /* margin-top: -3rem; */
 }
 
 .skills__box {
@@ -430,7 +432,8 @@ body.dark-theme {
   text-align: center;
   font-size: var(--smaller-font-size);
   color: var(--text-color-light);
-  /* margin-top: -5rem; */
+  margin-bottom: 2rem;
+  margin-top: 3rem;
 }
 
 .footer__copy a{
