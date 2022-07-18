@@ -174,11 +174,11 @@ body.dark-theme {
 }
 
 .profile__perfil img {
-  width: 75px;
+  width: 85px;
 }
 
 .profile__border {
-  border: 3.5px solid var(--first-color);
+  border: 3px solid var(--first-color);
   justify-self: center;
   width: 115px;
   height: 115px;
@@ -257,7 +257,7 @@ body.dark-theme {
   column-gap: .5rem;
   background-color: var(--first-color);
   color: #fff;
-  padding: 1.15rem 1.5rem;
+  padding: 0.75rem 1.5rem;
   border-radius: .5rem;
   transition: .3s;
   box-shadow: 0 8px 24px hsla(var(--hue), var(--sat), var(--lig), .25);
